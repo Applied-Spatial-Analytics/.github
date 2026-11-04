@@ -38,14 +38,14 @@ You're welcome to use AI tools (ChatGPT, Claude, GitHub Copilot, etc.) as
 part of your workflow for this course, within these guidelines:
 
 - **Use AI to support your thinking, not replace it.** AI tools can help
-  you debug R code, understand a method, or get unstuck — but the
+  you debug R code, understand a method, or get unstuck, but the
   analytical choices, interpretation, and final writing need to be your own.
 - **Disclose how you used it.** Add a short note in your report (e.g. in
   an appendix or methods section) describing which tools you used and for
-  what — for example, "used Claude to debug a `sf` join error" or "used
+  what - for example, "used Claude to debug a `sf` join error" or "used
   ChatGPT to draft an initial outline, which we then rewrote."
 - **You are responsible for correctness.** AI-generated code, statistics,
-  or text can be wrong, outdated, or subtly misleading — especially with
+  or text can be wrong, outdated, or subtly misleading, especially with
   spatial data. You must be able to explain and justify every method and
   result in your submission, AI-assisted or not.
 - **Don't submit AI output as your analysis.** Generating your maps,
@@ -57,7 +57,7 @@ part of your workflow for this course, within these guidelines:
   submitting.
 
 This policy follows TU Delft's general guidance on the responsible use of
-AI in education — if in doubt, that guidance takes precedence.
+AI in education. If in doubt, that guidance takes precedence.
 
 ## 🏆 Student projects from last year
 
@@ -81,8 +81,8 @@ AI in education — if in doubt, that guidance takes precedence.
 
 If you're in the Urbanism or Landscape Architecture track, remember that
 ARFW0501 is designed to be taken together with **Integrated Metabolic
-Design for Sustainable Neighborhoods, Cities and Regions (ARFW1001, 10 EC)**
-— the two are not offered separately for your track, but as a combined
+Design for Sustainable Neighborhoods, Cities and Regions (ARFW1001, 10 EC)**.
+The two are not offered separately for your track, but as a combined
 5+10 EC package. The analytical workflows and spatial data skills you build
 here feed directly into the metabolic design work in ARFW1001.
 
