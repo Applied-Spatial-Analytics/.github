@@ -61,9 +61,21 @@ AI in education — if in doubt, that guidance takes precedence.
 
 ## 🏆 Student projects from last year
 
-- **[Project name]** — *(what made it stand out: method, area, visualization...)*
-- **[Project name]** — *(...)*
-- **[Project name]** — *(...)*
+- **[Multi-Scale Spatial Analysis for Nature-Based Urban Heat Island
+  Mitigation](https://applied-spatial-analytics.github.io/create-your-report-group-d/report.html)**
+  (Group D) — Artemi Kurski, Niranjan Pradeep, Darius Floroiu, Henryk Gujda
+  *(MSc Geomatics)*
+
+- **[Ecological Connectivity Analysis in Delta Cities — A Case Study in
+  Rotterdam and
+  Guangzhou](https://applied-spatial-analytics.github.io/create-your-report-group-a/report.html)**
+  (Group A) — Faried Nurmohamed, Karlijn Huissen, Austėja Tarvydaitė, Marta
+  Zolnowska *(MSc Geomatics)*
+
+- **[Spatial Justice through Urban Green Space
+  Connectivity](https://applied-spatial-analytics.github.io/create-your-report-groupe/)**
+  (Group E) — Roxanne Vuijk *(MSc Urbanism)*, Belina Aileen, Daman Dogra
+  *(MSc Geomatics)*
 
 ## 🏙 For Urbanism and Landscape Architecture students
 
