@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to ARFW0501 - Applied Spatial Analytics for Sustainable Urban Development!
 
 <!--
 
