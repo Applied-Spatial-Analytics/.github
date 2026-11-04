@@ -69,7 +69,7 @@ AI in education — if in doubt, that guidance takes precedence.
 - **[Ecological Connectivity Analysis in Delta Cities — A Case Study in
   Rotterdam and
   Guangzhou](https://applied-spatial-analytics.github.io/create-your-report-group-a/report.html)**
-  (Group A) — Faried Nurmohamed, Karlijn Huissen, Austėja Tarvydaitė, Marta
+  (Group A) — Faried Nurmohamed *(MSc Urbanism / Geomatics)*, Karlijn Huissen, Austėja Tarvydaitė, Marta
   Zolnowska *(MSc Geomatics)*
 
 - **[Spatial Justice through Urban Green Space
