@@ -24,10 +24,12 @@ visualization.
 
 This year's practicals will be structured around a real case study:
 
-- **[PAST-FORWARD](https://past-forward.github.io)** — an ongoing
-  spatial analytics project combining dasymetric population redistribution,
-  space syntax analysis, social vulnerability indices, and climate data
-  pipelines, built in R.
+- **[PAST-FORWARD](https://past-forward.github.io)** — develops
+  climate adaptation strategies and a design support system for adaptive
+  Historic Urban Landscape (HUL) planning, combining geospatial analysis,
+  participatory planning, and adaptive urban landscape design, tested
+  through living labs in Delft and Rotterdam (NL) and Xi'an and Guangzhou
+  (CN).
 - **Potential case study area: Rotterdam** *(to be confirmed)* — exercises
   may draw on Rotterdam as the primary study area; this will be finalized
   before the course starts, so treat it as provisional for now.
